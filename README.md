@@ -1,4 +1,4 @@
-#### Hi there 👋, my name is Changsheng Zhu, I am a front-end engineer
+#### Hi there 👋, my name is Changsheng Zhu, a WebGL/Front-end Developer with experience in graphics, editor applications, and usual front-end development. I thrive on challenging tasks and enjoy exploring fun, innovative and efficiency-enhancing apps.
 
 #### 💻 Skills
 [<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>](https://www.typescriptlang.org/)
